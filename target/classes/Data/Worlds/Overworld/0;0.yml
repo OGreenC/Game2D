@@ -1,0 +1,44 @@
+chunkData:
+  tiles:
+    1:
+      type: GRASS
+      loc:
+        x: 2
+        y: 2
+    2:
+      type: GRASS
+      loc:
+        x: 2
+        y: 3
+    3:
+      type: GRASS
+      loc:
+        x: 2
+        y: 4
+    4:
+      type: GRASS
+      loc:
+        x: 3
+        y: 2
+    5:
+      type: GRASS
+      loc:
+        x: 3
+        y: 3
+    6:
+      type: GRASS
+      loc:
+        x: 3
+        y: 4
+    7:
+      type: GRASS
+      loc:
+        x: 4
+        y: 2
+  objects:
+    1:
+      type: TREE
+      size: 3
+      loc:
+        x: 2
+        y: 4
